@@ -1,0 +1,324 @@
+2026-08-19 12:10:48,893 - INFO - test_logger - Starting logger test
+2026-08-19 12:10:48,895 - INFO - test_logger - Opening OrangeHRM
+2026-08-19 12:10:48,897 - INFO - test_logger - Logger test completed
+2026-08-19 12:17:31,712 - INFO - pages.login_page - Starting login for user: Admin
+2026-08-19 12:17:31,715 - INFO - pages.login_page - Entering username: Admin
+2026-08-19 12:17:33,912 - INFO - pages.login_page - Entering password
+2026-08-19 12:17:34,284 - INFO - pages.login_page - Clicking Login button
+2026-08-19 12:17:38,090 - INFO - pages.login_page - Login action completed
+2026-08-19 12:17:52,500 - INFO - pages.login_page - Starting login for user: Admin
+2026-08-19 12:17:52,566 - INFO - pages.login_page - Entering username: Admin
+2026-08-19 12:17:56,125 - INFO - pages.login_page - Entering password
+2026-08-19 12:17:57,276 - INFO - pages.login_page - Clicking Login button
+2026-08-19 12:17:58,108 - INFO - pages.login_page - Login action completed
+2026-08-19 12:18:29,685 - INFO - pages.login_page - Starting login for user: wronguser
+2026-08-19 12:18:29,722 - INFO - pages.login_page - Entering username: wronguser
+2026-08-19 12:18:31,429 - INFO - pages.login_page - Entering password
+2026-08-19 12:18:31,636 - INFO - pages.login_page - Clicking Login button
+2026-08-19 12:18:33,531 - INFO - pages.login_page - Login action completed
+2026-08-19 12:18:42,112 - INFO - pages.login_page - Starting login for user: wronguser
+2026-08-19 12:18:42,140 - INFO - pages.login_page - Entering username: wronguser
+2026-08-19 12:18:45,755 - INFO - pages.login_page - Entering password
+2026-08-19 12:18:46,082 - INFO - pages.login_page - Clicking Login button
+2026-08-19 12:18:46,247 - INFO - pages.login_page - Login action completed
+2026-08-19 12:31:28,591 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 12:31:28,625 - INFO - LoginPage - Entering username: Admin
+2026-08-19 12:31:28,631 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 12:31:28,652 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 12:31:32,430 - INFO - LoginPage - Entering password
+2026-08-19 12:31:32,530 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 12:31:32,592 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 12:31:33,350 - INFO - LoginPage - Clicking Login button
+2026-08-19 12:31:33,356 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:31:33,357 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:31:38,917 - INFO - LoginPage - Login action completed
+2026-08-19 12:31:38,920 - INFO - LoginPage - Waiting for element: ('xpath', "//h6[normalize-space()='Dashboard']")
+2026-08-19 12:31:58,019 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 12:31:58,020 - INFO - LoginPage - Entering username: Admin
+2026-08-19 12:31:58,020 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 12:31:58,021 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 12:31:59,544 - INFO - LoginPage - Entering password
+2026-08-19 12:31:59,556 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 12:31:59,568 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 12:31:59,827 - INFO - LoginPage - Clicking Login button
+2026-08-19 12:31:59,827 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:31:59,827 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:32:02,533 - INFO - LoginPage - Login action completed
+2026-08-19 12:32:02,534 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-19 12:32:12,804 - INFO - LoginPage - Starting login for user: wronguser
+2026-08-19 12:32:12,809 - INFO - LoginPage - Entering username: wronguser
+2026-08-19 12:32:12,813 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 12:32:12,814 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 12:32:14,142 - INFO - LoginPage - Entering password
+2026-08-19 12:32:14,142 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 12:32:14,161 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 12:32:14,387 - INFO - LoginPage - Clicking Login button
+2026-08-19 12:32:14,388 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:32:14,388 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:32:16,665 - INFO - LoginPage - Login action completed
+2026-08-19 12:32:16,666 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-19 12:32:31,549 - INFO - LoginPage - Starting login for user: wronguser
+2026-08-19 12:32:31,554 - INFO - LoginPage - Entering username: wronguser
+2026-08-19 12:32:31,556 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 12:32:31,557 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 12:32:35,798 - INFO - LoginPage - Entering password
+2026-08-19 12:32:35,799 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 12:32:35,800 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 12:32:36,304 - INFO - LoginPage - Clicking Login button
+2026-08-19 12:32:36,312 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:32:36,315 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 12:32:41,855 - INFO - LoginPage - Login action completed
+2026-08-19 12:32:41,859 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-19 13:44:27,678 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 13:44:27,683 - INFO - LoginPage - Entering username: Admin
+2026-08-19 13:44:27,684 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:44:27,685 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:44:31,128 - INFO - LoginPage - Entering password
+2026-08-19 13:44:31,221 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:44:31,347 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:44:32,092 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:44:32,104 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:44:32,105 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:44:35,042 - INFO - LoginPage - Login action completed
+2026-08-19 13:44:35,045 - INFO - LoginPage - Waiting for element: ('xpath', "//h6[normalize-space()='Dashboard']")
+2026-08-19 13:44:57,487 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 13:44:57,488 - INFO - LoginPage - Entering username: Admin
+2026-08-19 13:44:57,489 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:44:57,489 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:44:58,906 - INFO - LoginPage - Entering password
+2026-08-19 13:44:58,907 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:44:58,907 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:44:59,136 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:44:59,136 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:44:59,137 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:44:59,356 - INFO - LoginPage - Login action completed
+2026-08-19 13:44:59,357 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-19 13:45:13,073 - INFO - LoginPage - Starting login for user: wronguser
+2026-08-19 13:45:13,078 - INFO - LoginPage - Entering username: wronguser
+2026-08-19 13:45:13,108 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:45:13,109 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:45:14,288 - INFO - LoginPage - Entering password
+2026-08-19 13:45:14,290 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:45:14,291 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:45:14,575 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:45:14,577 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:45:14,579 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:45:14,845 - INFO - LoginPage - Login action completed
+2026-08-19 13:45:14,845 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-19 13:45:33,334 - INFO - LoginPage - Starting login for user: wronguser
+2026-08-19 13:45:33,491 - INFO - LoginPage - Entering username: wronguser
+2026-08-19 13:45:33,662 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:45:33,867 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:45:36,032 - INFO - LoginPage - Entering password
+2026-08-19 13:45:36,033 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:45:36,033 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:45:36,671 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:45:36,671 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:45:36,671 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:45:40,748 - INFO - LoginPage - Login action completed
+2026-08-19 13:45:40,748 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-19 13:47:28,921 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 13:47:28,950 - INFO - LoginPage - Entering username: Admin
+2026-08-19 13:47:28,951 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:47:28,951 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:47:30,096 - INFO - LoginPage - Entering password
+2026-08-19 13:47:30,097 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:47:30,106 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:47:30,319 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:47:30,320 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:47:30,320 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:47:30,666 - INFO - LoginPage - Login action completed
+2026-08-19 13:47:52,088 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 13:47:52,089 - INFO - LoginPage - Entering username: Admin
+2026-08-19 13:47:52,090 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:47:52,090 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:47:57,996 - INFO - LoginPage - Entering password
+2026-08-19 13:47:58,039 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:47:58,109 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:47:58,843 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:47:58,926 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:47:58,955 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:48:01,543 - INFO - LoginPage - Login action completed
+2026-08-19 13:48:21,715 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 13:48:21,738 - INFO - LoginPage - Entering username: Admin
+2026-08-19 13:48:21,739 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:48:21,745 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:48:22,831 - INFO - LoginPage - Entering password
+2026-08-19 13:48:22,845 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:48:22,845 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:48:23,176 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:48:23,189 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:48:23,194 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:48:23,403 - INFO - LoginPage - Login action completed
+2026-08-19 13:48:48,288 - INFO - LoginPage - Starting login for user: Admin
+2026-08-19 13:48:48,311 - INFO - LoginPage - Entering username: Admin
+2026-08-19 13:48:48,312 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-19 13:48:48,313 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-19 13:48:49,771 - INFO - LoginPage - Entering password
+2026-08-19 13:48:49,779 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-19 13:48:49,779 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-19 13:48:50,069 - INFO - LoginPage - Clicking Login button
+2026-08-19 13:48:50,070 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:48:50,070 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-19 13:48:50,261 - INFO - LoginPage - Login action completed
+2026-08-24 13:52:03,539 - INFO - LoginPage - Starting login for user: Admin
+2026-08-24 13:52:03,542 - INFO - LoginPage - Entering username: Admin
+2026-08-24 13:52:03,542 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-24 13:52:03,542 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-24 13:52:05,035 - INFO - LoginPage - Entering password
+2026-08-24 13:52:05,036 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-24 13:52:05,037 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-24 13:52:05,391 - INFO - LoginPage - Clicking Login button
+2026-08-24 13:52:05,391 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:52:05,392 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:52:07,603 - INFO - LoginPage - Login action completed
+2026-08-24 13:52:28,336 - INFO - LoginPage - Starting login for user: Admin
+2026-08-24 13:52:28,339 - INFO - LoginPage - Entering username: Admin
+2026-08-24 13:52:28,367 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-24 13:52:28,370 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-24 13:52:33,114 - INFO - LoginPage - Entering password
+2026-08-24 13:52:33,120 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-24 13:52:33,120 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-24 13:52:33,307 - INFO - LoginPage - Clicking Login button
+2026-08-24 13:52:33,307 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:52:33,307 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:52:33,473 - INFO - LoginPage - Login action completed
+2026-08-24 13:52:52,710 - INFO - LoginPage - Starting login for user: Admin
+2026-08-24 13:52:52,712 - INFO - LoginPage - Entering username: Admin
+2026-08-24 13:52:52,717 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-24 13:52:52,720 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-24 13:52:54,317 - INFO - LoginPage - Entering password
+2026-08-24 13:52:54,352 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-24 13:52:54,364 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-24 13:52:54,923 - INFO - LoginPage - Clicking Login button
+2026-08-24 13:52:54,924 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:52:54,924 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:52:55,416 - INFO - LoginPage - Login action completed
+2026-08-24 13:53:19,714 - INFO - LoginPage - Starting login for user: Admin
+2026-08-24 13:53:19,716 - INFO - LoginPage - Entering username: Admin
+2026-08-24 13:53:19,717 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-24 13:53:19,720 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-24 13:53:21,735 - INFO - LoginPage - Entering password
+2026-08-24 13:53:21,863 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-24 13:53:21,865 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-24 13:53:22,255 - INFO - LoginPage - Clicking Login button
+2026-08-24 13:53:22,256 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:53:22,256 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-24 13:53:22,727 - INFO - LoginPage - Login action completed
+2026-08-27 09:40:25,439 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:40:25,442 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:40:25,442 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:40:25,443 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:40:29,927 - INFO - LoginPage - Entering password
+2026-08-27 09:40:29,928 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:40:29,929 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:40:30,796 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:40:30,800 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:40:30,801 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:40:31,753 - INFO - LoginPage - Login action completed
+2026-08-27 09:40:47,126 - INFO - test_logger - Starting logger test
+2026-08-27 09:40:47,127 - INFO - test_logger - Opening OrangeHRM
+2026-08-27 09:40:47,127 - INFO - test_logger - Logger test completed
+2026-08-27 09:40:56,981 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:40:56,982 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:40:56,982 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:40:56,982 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:41:01,614 - INFO - LoginPage - Entering password
+2026-08-27 09:41:01,614 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:41:01,615 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:41:01,929 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:41:01,930 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:41:01,930 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:41:02,185 - INFO - LoginPage - Login action completed
+2026-08-27 09:41:02,185 - INFO - LoginPage - Waiting for element: ('xpath', "//h6[normalize-space()='Dashboard']")
+2026-08-27 09:41:15,982 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:41:15,982 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:41:15,983 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:41:15,983 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:41:17,802 - INFO - LoginPage - Entering password
+2026-08-27 09:41:17,802 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:41:17,803 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:41:18,775 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:41:18,776 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:41:18,776 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:41:21,531 - INFO - LoginPage - Login action completed
+2026-08-27 09:41:21,535 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-27 09:41:38,301 - INFO - LoginPage - Starting login for user: wronguser
+2026-08-27 09:41:38,301 - INFO - LoginPage - Entering username: wronguser
+2026-08-27 09:41:38,301 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:41:38,302 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:41:42,394 - INFO - LoginPage - Entering password
+2026-08-27 09:41:42,395 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:41:42,396 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:41:43,347 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:41:43,347 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:41:43,348 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:41:44,922 - INFO - LoginPage - Login action completed
+2026-08-27 09:41:44,922 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-27 09:42:01,453 - INFO - LoginPage - Starting login for user: wronguser
+2026-08-27 09:42:01,454 - INFO - LoginPage - Entering username: wronguser
+2026-08-27 09:42:01,455 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:42:01,455 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:42:03,003 - INFO - LoginPage - Entering password
+2026-08-27 09:42:03,003 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:42:03,004 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:42:03,258 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:42:03,259 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:42:03,259 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:42:03,508 - INFO - LoginPage - Login action completed
+2026-08-27 09:42:03,508 - INFO - LoginPage - Waiting for element: ('xpath', "//p[contains(@class,'oxd-alert-content-text')]")
+2026-08-27 09:42:23,641 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:42:23,662 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:42:23,663 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:42:23,663 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:42:24,809 - INFO - LoginPage - Entering password
+2026-08-27 09:42:24,810 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:42:24,811 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:42:25,221 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:42:25,222 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:42:25,222 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:42:25,409 - INFO - LoginPage - Login action completed
+2026-08-27 09:42:46,404 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:42:46,405 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:42:46,406 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:42:46,406 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:42:55,306 - INFO - LoginPage - Entering password
+2026-08-27 09:42:55,307 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:42:55,308 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:42:56,004 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:42:56,005 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:42:56,005 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:42:56,554 - INFO - LoginPage - Login action completed
+2026-08-27 09:43:21,068 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:43:21,071 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:43:21,071 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:43:21,072 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:43:22,014 - INFO - LoginPage - Entering password
+2026-08-27 09:43:22,015 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:43:22,016 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:43:22,304 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:43:22,304 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:43:22,304 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:43:22,528 - INFO - LoginPage - Login action completed
+2026-08-27 09:43:40,322 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:43:40,323 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:43:40,323 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:43:40,324 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:43:41,134 - INFO - LoginPage - Entering password
+2026-08-27 09:43:41,134 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:43:41,135 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:43:41,419 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:43:41,419 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:43:41,420 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:43:41,539 - INFO - LoginPage - Login action completed
+2026-08-27 09:43:57,943 - INFO - LoginPage - Starting login for user: Admin
+2026-08-27 09:43:57,944 - INFO - LoginPage - Entering username: Admin
+2026-08-27 09:43:57,945 - INFO - LoginPage - Entering text into: ('name', 'username')
+2026-08-27 09:43:57,945 - INFO - LoginPage - Waiting for element: ('name', 'username')
+2026-08-27 09:43:59,920 - INFO - LoginPage - Entering password
+2026-08-27 09:43:59,921 - INFO - LoginPage - Entering text into: ('name', 'password')
+2026-08-27 09:43:59,921 - INFO - LoginPage - Waiting for element: ('name', 'password')
+2026-08-27 09:44:01,582 - INFO - LoginPage - Clicking Login button
+2026-08-27 09:44:01,582 - INFO - LoginPage - Clicking element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:44:01,582 - INFO - LoginPage - Waiting for clickable element: ('xpath', "//button[@type='submit']")
+2026-08-27 09:44:01,825 - INFO - LoginPage - Login action completed
